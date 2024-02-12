@@ -1,3 +1,3 @@
 # basic_text_analyzer
 
-# simple stats such as sentence length and word length
+simple stats such as sentence length and word length
